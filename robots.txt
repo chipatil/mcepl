@@ -1,14 +1,6 @@
 # website ROBOTS.txt by CHIRAG 
 User-agent: *
-Disallow: /*?*
-Disallow: /?s=
-Disallow: /page/*/?s=
-Disallow: /search/
-Disallow: /wp-json/
-Disallow: /?rest_route=
-Disallow: /wp 
-Allow: /sitemap_index.xml
 Allow: /sitemap.xml
-Sitemap: https://www.incineratormanufacturer.com/sitemap_index.xml
+Sitemap: https://incineratormanufacturer.com/sitemap.xml
 
 # end of robots by CHIRAG PATIL v2
